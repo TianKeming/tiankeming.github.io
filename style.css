@@ -1,0 +1,10 @@
+a {
+    text-decoration: none;
+    color:deeppink
+}
+a:hover {
+    color:rgb(255, 0, 50)
+}
+a:active {
+    color:rgb(255, 0 ,20)
+}
